@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deaths advantage: or A sermon preached at the funerall of that noble and valiant gentleman, Colonell William Gould, high sheriff of Devon: by order of Parliament, and late commander of the fort and island in Plymouth. By Stephen Midhope, Mr. of Arts.</title>
+            <author>Midhope, Stephen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89125</idno>
+            <idno type="STC">Wing M1996</idno>
+            <idno type="STC">Thomason E13_21</idno>
+            <idno type="STC">ESTC R7641</idno>
+            <idno type="EEBO-CITATION">99873160</idno>
+            <idno type="PROQUEST">99873160</idno>
+            <idno type="VID">154827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E13[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deaths advantage: or A sermon preached at the funerall of that noble and valiant gentleman, Colonell William Gould, high sheriff of Devon: by order of Parliament, and late commander of the fort and island in Plymouth. By Stephen Midhope, Mr. of Arts.</title>
+                  <author>Midhope, Stephen.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. for Francis Eglesfield, and are to be sold at the Marigold in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gould, William, d. 1644.</term>
+               <term>Bible. --  N.T. --  Philippians I, 21 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Death --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:154827:1"/>
+            <p>I Have peruſed this Ser<g ref="char:EOLhyphen"/>mon intituled Deaths ad<g ref="char:EOLhyphen"/>vantage, and finding it to be ſound and judicious, pious and profitable, I Li<g ref="char:EOLhyphen"/>cenſe it to be Printed and publiſhed.</p>
+            <closer>
+               <signed>JOHN DOWNAME.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:154827:1" rendition="simple:additions"/>
+            <p>DEATHS ADVANTAGE: OR A SERMON PREACHED AT THE FUNERALL OF THAT Noble and Valiant Gentleman, Colonell WILLIAM GOULD, High Sheriffe of <hi>Devon:</hi> By order of Parliament, and late Commander of the Fort and Iſland in <hi>Plymouth.</hi>
+            </p>
+            <p>By STEPHEN MIDHOPE M<hi rend="sup">r.</hi> of Arts.</p>
+            <q>
+               <bibl>
+                  <hi>REVEL. 14.13.</hi>
+               </bibl>
+               <p>Write, Bleſſe are the dead which die in the Lord, from hence-forth, yea, ſaith the Spirit, that they may rest from their labours, and their workes do follow them.</p>
+            </q>
+            <p>LONDON, Printed by <hi>L. N.</hi> for FRANCIS EGLESFIELD, and are to be ſold at the <hi>Marigold</hi> in <hi>Paul's</hi> Church-yard. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154827:2"/>
+            <pb facs="tcp:154827:2"/>
+            <head>TO THE RIGHT WORSHIPFVL SIR JOHN BAMPFIELD, BARONET, THE WELL-DESERVING AND Honoured Commander of the Fort and Iſland in <hi>Plymouth,</hi> Grace and peace in our Lord Jeſus Chriſt.</head>
+            <opener>
+               <salute>NOBLE SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT there is a life above that of ſenſuall pleaſure; the Heathen by the twy-light of Nature could di<g ref="char:EOLhyphen"/>ſcerne, who thought him not worthy the name of a man, that ſpent a whole day together in ſenſuall pleaſure; reckoning ſuch amongſt beaſts in humane ſhape, but that there is a life of faith as far above that of reaſon, as it is above the life of ſenſe, that comming from God, returnes to him againe, moves by higher principles, and to higher ends, acts all for the honour of the great God, aymes in all at the ſetting up of Chriſt, and making
+<pb facs="tcp:154827:3"/>
+him glorious before the world; this is ſuch a dark and hidden path, that had we not the <hi>fiery Pillar</hi> of Gods truth to cleare it to us, together with <hi>a cloud of many witneſſes,</hi> eſpecially in theſe laſt dayes, that have beaten it out before us, whoſe life is not in carnall pleaſure, nor civill tranſ<g ref="char:EOLhyphen"/>actions, no, nor yet in philoſophicall ſpecula<g ref="char:EOLhyphen"/>tions, who lay out all their ſtrength, are ready to exhauſt all their bloud from Chriſt and his truth; we muſt have been for ever ignorant of it. This is not to be found in the Schoole of <hi>So<g ref="char:EOLhyphen"/>crates,</hi> nor in the pit of <hi>Democritus.</hi> What thoſe Maſters of morality groped after in the darke, but could never reach; <hi>viz.</hi> the right way of li<g ref="char:EOLhyphen"/>ving; I have adventured to preſent to your and the publique view in this poore and plaine Ser<g ref="char:EOLhyphen"/>mon, which I confeſſe hath no other argument to procure either your view, or patronage, but this one; that it hath the Name of <hi>Jeſus Chriſt</hi> in it; the want whereof when <hi>Auſtin</hi> eſpied, after converſion, in <hi>Tullies</hi> Booke, abated the heat of his delight which he once took in it. When you meet with weakneſſes, may you be pleaſed to Remember, that not any ſelfe-forwardneſſe, or over-valuing hath obtruded theſe unpoliſhed Meditations into the publique light, but my
+<pb facs="tcp:154827:3"/>
+willingneſſe to put a ſtop, if it may be, to the falſe and ſlanderous aſperſions on the dead, that I perceive have already cankered the hearts and mouths of many, and to raiſe, though upon the ruines of my own credit, a monument of de<g ref="char:EOLhyphen"/>ſerved praiſe to him, to whoſe fidelity and reſo<g ref="char:EOLhyphen"/>lution in the cauſe of Chriſt, the Kingdome ſtands ſo much indebted to this day.</p>
+            <p>And now, Noble Sir, theſe rude Notes being forced to looke abroad, whither ſhall they run for ſhelter but to you? Surely your right is grea<g ref="char:EOLhyphen"/>teſt to them, as ſucceeding the man in his ho<g ref="char:EOLhyphen"/>nour and intruſtments, as well as in his holy activity for the publique good. But I perceive by <hi>Auſtin,</hi>
+               <note place="margin">Retr. lib. <hi>1.</hi> cap. <hi>2.</hi>
+               </note> who repented him that he attributed more to <hi>Theodorus,</hi> to whom he wrote a booke, though otherwiſe he were a godly man, then was meet, that it is eaſie to over-laſh in the com<g ref="char:EOLhyphen"/>mendation of a good man. Only this therefore let me name without flattery, to give the world an accompt of my choiſe; Your love to Chriſt in his Miniſters and members, your conſtancy in ſticking to his Cauſe with the loſſe of friends and lands in theſe back-ſliding, and forward<g ref="char:EOLhyphen"/>neſſe in acting for him in theſe bleeding times, doe more then ſatisfie me that I have found a
+<pb facs="tcp:154827:4"/>
+Patron ſutable to my ſubject. Wherefore praying your favourable conſtruction and acceptance of this poor mite, I commend you to the Lords grace, who double the ſpirit of his deceaſed ſer<g ref="char:EOLhyphen"/>vant on you, make you high and Noble in all your ends, faithfull and conſtant in all your in<g ref="char:EOLhyphen"/>ſtruments, couragious and valiant in all your undertakings for Chriſt and his truth. Remem<g ref="char:EOLhyphen"/>ber, Sir, riches, honours, high places, may make you great, not gracious, not happy: they paſſe away daily, and often much faſter then they came,<note place="margin">I'le ad deum copioſus, ille opulentus adveniet, cui aſtabunt mi<g ref="char:EOLhyphen"/>ſericordia, patientia, charitas, fi<g ref="char:EOLhyphen"/>des. <hi>Lactant. lib. 7. c. 27.</hi>
+               </note> and if they tarry with you to your laſt, yet then muſt you leave them to others, as they are now left to you. We ſhall carry nothing with us, but a life ſpent in, and for Chriſt, Worke apace then, be diligent to take in and put off as much as you can for your Maſters advantage, that you may go richly laden to the Haven at the laſt, and when you have fulfilled your time, receive the crowne of righteouſneſſe and glory; for which he prayeth who is yours</p>
+            <closer>
+               <signed>
+                  <hi>Devoted to ſerve you in all Goſpell offices,</hi> STEPHEN MIDHOPE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:154827:4"/>
+            <head>DEATHS ADVANTAGE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PHILIPPIANS 1.21.</hi>
+                  </bibl>
+                  <p>For me to live is Chriſt, and to dye is gaine.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Text is a compendious expreſ<g ref="char:EOLhyphen"/>ſion of S. <hi>Paul's</hi> ſcope in life, and hope in death. The inference is thus: After ſalutation and gratulation from the 1. verſe to the 12. he pro<g ref="char:EOLhyphen"/>ceeds for the better incouragement of the beleeving Philippians to boldneſſe and conſtancy in the pro<g ref="char:EOLhyphen"/>feſſion of the Goſpell and fellowſhip with Chriſt and his Church, to declare unto them:</p>
+            <p n="1">1. His preſent eſtate in bonds, and the good God had wrought out thence, from the 12. verſe to the 18.</p>
+            <p n="2">2. His hope of the like for the future, verſe 19, 20. <hi>viz.</hi> I not only have had, and now have, but I ſhall ſtill have great cauſe of rejoycing in my ſufferings. For, 1. I know what-ever the adverſaries worke againſt me, all through the helpe of your prayers and aſſiſtance of the Spirit of God ſhall ſtill turne to my ſalvation. 2. I know likewiſe that Chriſt ſhall be hereby glorified in my body, which whether it be by life or death, by living to him, or dying for him, 'tis all one to me: <hi>For to me to live,</hi> &amp;c.</p>
+            <p>
+               <pb n="2" facs="tcp:154827:5"/>The words are diverſly rendred by Interpreters. The <hi>Syriack</hi> reades them as do our Engliſh Tranſlators; ſo all the Ancients; ſo <hi>Eraſmus</hi> with others. <hi>Calvin,</hi> and after him <hi>Beza</hi> render them thus; <hi>Chriſt is in life and death advantage;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſupplying the prepoſition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo the ſenſe will be: 'Tis indifferent to mee whether I live or die; for having Chriſt, I muſt be a gainer by both eſtates; for 'tis Chriſt alone that makes me happy in life and death.</p>
+            <p>For my part, as I take no pleaſure in diſſenting from ſuch eminent lights, ſo I dare not eaſily depart from the ſimplicity of the words of the Holy-Ghoſt, without manifeſt reaſon, eſpecially having the conſent of all Antiquity.</p>
+            <p>I do therefore approve our Engliſh Tranſlation; ſo the ſenſe is plaine, and ſweetly agrees with the prece<g ref="char:EOLhyphen"/>dent and following verſes.</p>
+            <p n="1">1. With the fore-going words, verſ. 20. <hi>According to my</hi> &amp;c. <hi>viz.</hi> this is that I ayme at, heartily look and hope for, that Ghriſt be magnified: if ſo, 'tis all one to me whether I live or die: for this is my maine ſcope in living, my very life to glorifie Chriſt by profeſſing, preaching, loving his Goſpell, and ſuffering affliction for his Name; and if I die now in my bonds, beſides that I ſhall ſeale his truth with my bloud, this will turne to my great advantage, in that being diſſolved I ſhall be with Chriſt.</p>
+            <p n="2">
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> non con<g ref="char:EOLhyphen"/>nectit, ſed in<g ref="char:EOLhyphen"/>ſert: Sicut in illo, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Heinſius in locum. <hi>John 15.16.</hi>
+               </note>2. As ſweetly doth this agree with the following verſes, which I reade thus: <hi>But if to live in the fleſh, this be the fruit of my labour; What then ſhall I chooſe? I wot not. For I am in a ſtrait,</hi> &amp;c. What fruit? the conver<g ref="char:EOLhyphen"/>ſion of ſoules, that's the only fruit of the miniſtry, for that end were the Apoſtles ſent. So then if I live, I ſhall have an occaſion of bringing forth fruit to God by my
+<pb n="3" facs="tcp:154827:5"/>
+miniſtry: And what then ſhall I chooſe? for to abide in the fleſh is better for you. Why? becauſe this is the fruit of my life, to preach Chriſt, and win ſoules to him; and I have deſtined my whole life thereunto: there's his TO ME TO LIVE IS CHRIST, but better for me to be diſſolved. Why? becauſe then I ſhall be with Chriſt. There's his AND TO DYE GAINE.</p>
+            <p>In theſe ſhort words of the Text, you have deſcribed the life and death of a true Chriſtian in a double propo<g ref="char:EOLhyphen"/>ſition; his life by its object and end; <hi>Christ.</hi> His death by its conſequent, and concomitant; <hi>Gaine.</hi> The neceſ<g ref="char:EOLhyphen"/>ſary combination of theſe, <hi>Christ</hi> with <hi>Life,</hi> and <hi>Gaine</hi> with <hi>Death,</hi> is intimated in the manner of enunciation, which though it be not ſubſtantiall and formal, but cau<g ref="char:EOLhyphen"/>ſall only, and <hi>per concomitantiam,</hi> as Logicians ſpeake, yet it is as like it as may be: his <hi>life</hi> was ſo wholly devo<g ref="char:EOLhyphen"/>ted to <hi>Christ,</hi> ſpent on <hi>Christ,</hi> that <hi>Christ,</hi> and nothing but <hi>Christ</hi> was to be found in his heart and wayes: his <hi>gaine</hi> ſo inſeparably conjoyned with his <hi>diſſolution, glory</hi> ſo ſure to follow at the heeles of <hi>death,</hi> as if there had been no difference betweene them; but that <hi>Death</hi> had now put off with its ſting its nature alſo, and were now become not a privation, but advancement of his being, not a loſſe of life, but a gainfull addition of glory.</p>
+            <p>Not to detaine you longer from that I princi<g ref="char:EOLhyphen"/>pally intend: from the propoſitions thus briefly ex<g ref="char:EOLhyphen"/>plained, ariſe two maine points of truth, which I ſhall deſire ſeverally to open, and then for a cloſe joyntly to apply.</p>
+            <p n="1">1. Doctr. <hi>The maine object of a godly mans employ<g ref="char:EOLhyphen"/>ment, is Christ and his glory.</hi> Or,</p>
+            <p>
+               <hi>Christ is the life of a true Christian.</hi>
+            </p>
+            <p n="2">2. Doctr. <hi>A life truly Christian ever ends in a hap<g ref="char:EOLhyphen"/>py and gainfull death.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:154827:6"/>For explication of the former of theſe; two termes muſt have ſome light here. 1. <hi>Christ.</hi> What is carried in that. 2. <hi>To live.</hi> How <hi>Christ</hi> is <hi>life</hi> to a Chriſtian.</p>
+            <p n="1">1. <hi>Christ</hi> is not here ſimply and abſolutely conſi<g ref="char:EOLhyphen"/>dered in his perſon,<note place="margin">Act. 9.5.</note> natures, <hi>&amp;c.</hi> but Chriſt in his rela<g ref="char:EOLhyphen"/>tions. As <hi>Paul</hi> once lived againſt Chriſt, ſo now he lives Chriſt in his Church, Kingdome, Goſpell, wayes, ordi<g ref="char:EOLhyphen"/>nances. <hi>Chriſt,</hi> that is, the magnifying of Chriſt, by preaching his Goſpell, ſerving his Church, building up his body, obeying his will, doing, ſuffering for his Name. So much is evident to an obſervant eye from the context, as hath been already opened.</p>
+            <p n="2">2 How this is called his life. For the fuller un<g ref="char:EOLhyphen"/>derſtanding whereof we muſt note,</p>
+            <p n="1">1. More generally. Every thing is evidenced to live by its operation,<note place="margin">
+                  <hi>Sum.</hi> 1. <hi>q.</hi> 18.2.</note> that is moſt proper to it. As the life of a Plant conſiſts in this, that it receives nouriſhment and growth: Of a beaſt, in ſenſe and motion: Of men, in reaſon, and working according to reaſon. So that the life of a man ſtands in that which he delights moſt in, &amp; which he moſt intends. Now there are not only naturall faculties in men, inclining them to ſutable operations, but alſo ſuperadded principles, as habites vertuous or vicious, inclining them to ſome kind of actions as it were naturally, and making them delightfull to them. Hence by way of ſimilitude, that operation that is delightfull to man, in which he takes pleaſure to walk, to which he directs his courſe, is called his life. Hence ſome are ſaid to live a voluptuous, others a worldly life, their thoughts and ſtudy are all on the world, all their care is for it, their delight wholly in it.</p>
+            <p n="2">2. But more particularly there is a life of the heart, and of the hand.<note place="margin">1. <hi>Love.</hi>
+               </note> 1. Of the heart, where the firſt weight and ſpringing of the ſoule is love, that ſo joyns the ſoule
+<pb n="5" facs="tcp:154827:6"/>
+and its beloved, that it lives, as it were, and enjoyes it ſelf,<note place="margin">Non ubi ani<g ref="char:EOLhyphen"/>mat, ſed ubi amat.</note> not in the body where it breathes, but in that which it loves. 2.<note place="margin">2. <hi>Care.</hi>
+               </note> Hence (for love is a commanding paſſion) the mind, the thoughts are imployed about that which the ſoule loves. <hi>Lord</hi> (ſaith <hi>David) how I love thy Law!</hi>
+               <note place="margin">Pſal. 119.</note> 
+               <hi>al the day long is my ſtudy in it.</hi> And this is ſet down as a chara<g ref="char:EOLhyphen"/>cteriſticall difference betwixt the life of a married and unmarried perſon by the Apoſtle;<note place="margin">1 Cor. 7.32. Eſay 32.6.8.</note> 
+               <hi>the one careth for the things of the world, the other for the things of the Lord:</hi> And by the Prophet betwixt the life of the wicked and the godly; <hi>the heart of the one works iniquity, he deviſes wicked devices, the other deviſes liberall things.</hi> 3.<note place="margin">3. <hi>Deſire. Reinolds</hi> of Paſſions.</note> Hence alſo ariſeth deſire, that is the wing of the ſoule, whereby it moves, and is carried to the thing which it loves, as the Eagle to the carkaſſe, to feed it ſelf upon it, and to be ſa<g ref="char:EOLhyphen"/>tisfied with it. And this the Scripture holds forth as the very beſt character and trueſt lineament that can be drawn of the life of God and of the world. Actions may be over-ruled by ends, but deſires are alwaies genuine and natural. <hi>Pro.</hi> 11.23. <hi>The deſire of the righteous is only good; but the expectation of the wicked is wrath.</hi> What-ever o<g ref="char:EOLhyphen"/>ther defects may attend his actions, this is an inſeparable character of a pious ſoule, that the maine ſtreame of his deſires, the courſe and current of his heart is to God and goodneſſe; though he cannot ſhew himſelfe in doing as he would, yet hee deſires good; becauſe it is Chriſt in whom is good, and nothing but good,<note place="margin">Hag. 2.7.</note> after whom are drawn all the affections and inward longings of his ſoul. On the contrary, what ever ſpecious pretexts may be drawne and held out by the wicked, yet their deſires are after ſuch things only from which they cannot hope or expect any thing but Gods everlaſting wrath: though the one dares not doe ſo much evill as he deſires, for feare of ſhame or puniſhment; The other cannot doe ſo much
+<pb n="6" facs="tcp:154827:7"/>
+good as he deſires for want of power; yet according to the prevalency of his affection this way or that way, ſuch is the man in the Scriptures eſtimate, either righteous, or wicked.<note place="margin">4. <hi>Delight.</hi>
+               </note> 4. Hereupon followes delight, when we reſt in the fruition of that good, wherunto our deſires have car<g ref="char:EOLhyphen"/>ried us. This both in Scripture and natures expreſſion is called life. What is life? not the conjunction of ſoule and body; for then they in hell ſhould not be ſaid to die the death; but a conjunction of the ſoule with that it loves and joyes in; and this alſo hath a moſt inward rela<g ref="char:EOLhyphen"/>tion to,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ethic. l. <hi>2.</hi> c. <hi>3.</hi>
+               </note> and main influence upon all the actions of life. Joy is the rule of life; ſuch is the life, as is the delight, whether it be good or evill. 'Tis joy to the juſt to doe judgment; but a paſtime to the wicked to do wickedly. 5.<note place="margin">5. <hi>Endevour.</hi>
+               </note> This drawes the indevour, puts ſinewes into the hand, makes ſtrong and active in doing and ſuffering for that we love: this is called <hi>the life of the hand, Iſa.</hi> 57.10. They were induſtrious to bring about their idol worſhip, they compaſſed their deſigne not without much difficulty, got their living by their hands.<note place="margin">Vita actuoſa eſt mors qui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta.</note> Life is in action; ſo much as we do, ſo much we may be ſaid to live; what time is ſpent vainly idly, is to be accounted death; a man with<g ref="char:EOLhyphen"/>out hands is a man without life; an unactive, heavie, ſleepy drone is dead while he is alive.</p>
+            <p>Now then ſumme up all theſe, and take them in one view, and you have a full deſcription of this notion To LIVE: That which is a mans love, his care, deſire, delight, the bent of his heart, the imployment of his hand, is his <hi>life.</hi> Thus, thus <hi>Chriſt</hi> is <hi>To live</hi> to a godly man; his love is drawn out after Chriſt alone, his care only for the things of Chriſt, his inward and ſecret plots, and projects, are only ſpent for the ſetting forward grace, and the glory of Chriſt; the maine ſtreams of his deſires are after the in<g ref="char:EOLhyphen"/>largement of Chriſts Kingdome, he has no other delight
+<pb n="7" facs="tcp:154827:7"/>
+then in the ſervice of Chriſt, no other object of his im<g ref="char:EOLhyphen"/>ployment, but Chriſt and his glory.</p>
+            <p>That this is ſo,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> might be made appeare in a full indu<g ref="char:EOLhyphen"/>ction of the Saints practices in all ages: but I ſhall con<g ref="char:EOLhyphen"/>tent my ſelf with this only inſtance in the text, 'tis fully home to all the forenamed particulars. Take a view of S. <hi>Paul</hi> in his love; how deare was Chriſt in his Church to this good man? <hi>As a nurſe cheriſhing her children, as a father exhorting, comforting, charging them;</hi> So was he a<g ref="char:EOLhyphen"/>mong the beleeving <hi>Theſſalonians.</hi>
+               <note place="margin">1 Theſſ. 2.7.11.</note> How did his love to Chriſt carry him to a kind of ſpirituall diſtraction, and heavenly <hi>ecſtaſis,</hi>
+               <note place="margin">Phil. 2.17. 1 Theſſ. 2.8.</note> that he was not only willing <hi>to be offred up as a drink-offering on the ſervice of</hi> the Churches <hi>faith,</hi> not only ready <hi>to impart with the Goſpell his own ſoule</hi> to them, but could wiſh himſelf were <hi>accurſed from Chriſt,</hi>
+               <note place="margin">Rom. 9.3. 2 Cor. 11.28.</note> that Chriſt might be glorified in the ſalvation of his brethren? Where was his care, on what did he ſpend his thoughts, but about the Churches? night and day pray<g ref="char:EOLhyphen"/>ing, preaching Chriſt into them.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Rom. 15.20.</note> This was his <hi>ambitious</hi> care. Never a proud Courtier did ſo ſtudy his prefer<g ref="char:EOLhyphen"/>ment, caſt about his plots how to riſe, as he, how to gaine ſouls to Chriſt, how to inlarge the territories of his Ma<g ref="char:EOLhyphen"/>ſters kingdom. No leſſe careful was he, <hi>parta tueri,</hi> where he had planted Churches, to confirme build them up: for this cauſe he could not forbeare viſiting them in perſon, ſending to them on all occaſions,<note place="margin">1 Theſſ. 3.1.5</note> 
+               <hi>Leſt the tempter ſhould have tempted them, and his labour been in vain.</hi> His deſires how eager, how affectionate were they after Chriſt in his members? <hi>longing</hi> after them,<note place="margin">Phil. 1.8. Coloſſ. 1.29.</note> 
+               <hi>ſtriving as one in an a<g ref="char:EOLhyphen"/>gony</hi> for them, <hi>that he might preſent them perfect in Chriſt Jeſus.</hi> And was not Chriſt in his Goſpell his only de<g ref="char:EOLhyphen"/>light? the doing of the work of Chriſt, fulfilling his mi<g ref="char:EOLhyphen"/>niſtery, building up the body of Chriſt; This,<note place="margin">Act 20.24.</note> this was his joy, which he prefers <hi>to life it ſelfe,</hi> yea, counted him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="8" facs="tcp:154827:8"/>
+then,<note place="margin">1 Theſſ. 3.8.</note> and ſo far only <hi>to live,</hi> as this work did go on and proſper. As for his endevours; never any that the Scripture ſets forth, or ſtory mentions, that lived more, if life be in action:<note place="margin">1 Cor. 15.10.</note> Heare himſelfe profeſſing; <hi>I labour<g ref="char:EOLhyphen"/>ed more abundantly then they all.</hi> And did not all his acti<g ref="char:EOLhyphen"/>ons carry this inſcription in the forehead FOR CHRIST? if you follow him in his travels, you ſhall ſee him from <hi>Jeruſalem</hi> to <hi>Illyricum round about</hi> filling ſoules with the Goſpell of Chriſt.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 15.19. <hi>Miraculum hominum.</hi>
+               </note> Look on him at his handy-craft; he wrought with labour and travel night and day; what was to be ſeen here alſo but Chriſt in his wayes,<note place="margin">1 Theſſ. 2.8 9</note> Church glo<g ref="char:EOLhyphen"/>ry; he laboured with his hands that he might be an en<g ref="char:EOLhyphen"/>ſample of diligence and induſtry in the calling to the in<g ref="char:EOLhyphen"/>ordinate walkers;<note place="margin">2 Cor. 11.7 9</note> to prevent the ſcandall of the weak, the calumnies of the malignant; leſt they ſhould ſay, that he preached for his belly, or for gain; he therfore laboured that he might make it appeare,<note place="margin">2 Cor. 12.14.</note> 
+               <hi>he ſought not theirs, but them,</hi> not their goods, but their ſoules.</p>
+            <p>Thus were his actions. But what were his ſuffhrings? no other then the dying of the Lord Jeſus. <hi>We are fooles for Chriſts ſake:</hi>
+               <note place="margin">1 Cor. 4.10. 2 Cor. 4.11.</note> 
+               <hi>Delivered to death for Ieſus ſake,</hi> with ſuch like expreſſions. And leſt any might thinke <hi>Paul</hi> herein to be ſingular, he tels us all that are Chriſtians indeed do and ought thus to live, <hi>Rom.</hi> 14.7, 8. none of us, if we have as wel the Spirit of Chriſt in us, as the Name of Chriſt upon us, but <hi>wee live to the Lord,</hi> make Chriſt and his praiſe the ſupreame end of our living, preferring his ho<g ref="char:EOLhyphen"/>nor above our own wel-fare, willing to abaſe our ſelves, that we may exalt Chriſt, bringing forth all our fruit to him, thus do all beleevers. And els where he tels us, there is great reaſon it ſhould be ſo; which leads me to the de<g ref="char:EOLhyphen"/>monſtration of this truth, which I will briefly diſpatch.</p>
+            <p n="1">
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>1. That this is ſo, that every godly man lives to Chriſt, conſecrates all his life to Chriſt, wil eaſily appeare; if
+<pb n="9" facs="tcp:154827:8"/>
+we conſider that every life hath plinciples according to the nature of it, leading it to things ſutable. Now where the life of Chriſt is, that new nature hath new princi<g ref="char:EOLhyphen"/>ples, by which they are acted; that carry them to Chriſt, to ſet out his glory, lift up his Name. There is an excel<g ref="char:EOLhyphen"/>lent expreſſion for this, <hi>Phil.</hi> 2.20.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Germane.</note> godly men have their hearts ſo plincipled, that they are carried <hi>by a natural in<g ref="char:EOLhyphen"/>ſtinct</hi> (I mean of a new nature) to Chriſt &amp; his Church, to do al the ſervice they can unto them: So that as things that worke naturally, worke neceſſarily,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nyſſen.</note> ſo there is a kind of neceſſity put upon them, <hi>the love of Chriſt,</hi> which is the life of the new nature, <hi>conſtrains</hi> them; they <hi>can do nothing againſt the truth, but for the truth,</hi> 2 <hi>Cor.</hi> 13.8.</p>
+            <p n="2">2. That this ſhould be ſo; juſtice requires it. 1. Is it not Chriſt that hath made us, and not we our ſelves?<note place="margin">Job.</note> he hath <hi>powred us out like milke, by him we were curdled like cheefe;</hi> and have we not our new being from him?<note place="margin">Epheſ. 2.10.</note> 
+               <hi>We are Gods workmanſhip created in Chriſt Jeſus:</hi> and ſo he may challenge our hearts and lives as his own, <hi>jure creationis,</hi> by the right of creation, as the Author of them. Whi<g ref="char:EOLhyphen"/>ther ſhould the rivers run but into the ſea from whence they come?<note place="margin">Eccleſ. 1.7.</note> 
+               <note place="margin">Eccleſ. 12.7. Hebr. 9.</note> and ſhall not <hi>the ſpirit of man return unto God who gave it?</hi> The naturall ſpirit by a ſtatute law at death, the gracious Spirit by the law of Love all along even unto death. 2. He hath redeemed and bought us at a deare rate, his own bloud; and therefore we ſhould <hi>glorify him with our lives, for we are not our own</hi> &amp;c. 3.<note place="margin">1 Cor. 6.20.</note> He hath reſcued and delivered us as ſpoiles out of the hands of our enemies, and therefore we are become his ſervants and owe our lives to him as our Patron and Deliverer,<note place="margin">Servus quiae in bello ſerva<g ref="char:EOLhyphen"/>tus.</note> 
+               <hi>Rom.</hi> 6.18.7.6. 4. Beſides in Baptiſme we devoted our ſelves wholly to him; and ſo by right of ſale or covenant our lives are his. 5. And laſtly, in point of gratitude and thankfulneſſe we have the whole life of Chriſt, firſt
+<pb n="10" facs="tcp:154827:9"/>
+and laſt, both here and in heaven laid out for us. He had no buſineſſe here on earth but for us. <hi>To us a Child was borne.</hi>
+               <note place="margin">2 Cor. 5.14, 15.</note> He had not dyed but for us. <hi>For us a Son is given.</hi> When he roſe, 'twas <hi>for our juſtification.</hi> And now he is in heaven, he <hi>lives for ever to intercede for us.</hi> Now then we cannot but judge this to be moſt equall, that we live ſpiritually in the fruition of his grace and participation of his Spirit, that had our lives by his benefit, that have the improvement of his whole time for us; ſhould <hi>not live hence-forth unto our ſelves, but to him who dyed for us, and roſe again.</hi> He lived wholly unto us; therefore we are bound, if we will not be unthankfull, to live wholly to him. In manners we would reciprocate with men, how much more with God?</p>
+            <p>Hitherto of the firſt point. Now of the ſecond more briefly, which was</p>
+            <p n="2">2. Doct. <hi>A life truly Chriſtian ever ends in a happy and gainfull death.</hi>
+            </p>
+            <p>
+               <note place="margin">Quest.</note>Is not death <hi>poena damni?</hi> do we not loſe by death, all that the devill promiſed Chriſt, the world and the glory of it; body, goods, wife, children, dear companions, pleaſant friends: that turnes to duſt; theſe all ſhake hands, and leave us at the grave; how then can it be gain?</p>
+            <p>
+               <note place="margin">Anſw.</note>Yes. For it is a change, we loſe none of our comforts, but exchange them to our great advantage.</p>
+            <p n="1">1. The ſoule changes its rags, reliques of corruption for white robes of ſpotleſſe purity. Heare <hi>Paul</hi> com<g ref="char:EOLhyphen"/>plaining in life of <hi>a body of death,</hi>
+               <note place="margin">Rom. 7.24. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5.4.</note> 
+               <hi>groning under his bur<g ref="char:EOLhyphen"/>den</hi> whileſt in this <hi>tabernacle of clay.</hi> The leproſie is ſo deepe wrought into the walls of this houſe, that ſcrape off what we can, 'twill never quite out, till the houſe of the body be broken down and diſſolved: And muſt not that needs be a gainfull change, that brings us to an end of living here, and ſinning for ever? 2. It changes all its
+<pb n="11" facs="tcp:154827:9"/>
+guilts, griefs, for perfect holineſſe, and everlaſting peace.</p>
+            <p n="2">2 The body its gaine is only privative for preſent, its freed from all miſeries and calamities of life, it gaines only reſt for a time <hi>Iſa.</hi> 57.2. the full gain of the body is adjourned to the reſurrection, when it ſhall be made like unto Chriſts glorious body. True, the ſoule alſo till then ſuſtaines ſome loſſe, called <hi>the paines of death:</hi>
+               <note place="margin">Acts 2.24.</note> underſtand not paines of ſenſe, but loſſe. 1. Of the com<g ref="char:EOLhyphen"/>pany of the body its old and deare companion. 2. It comes ſhort of the glory that ſhall be revealed. Yet as <hi>Evagrius</hi> bequeathed three hundred pound to the poore in his will, but tooke bond of the Biſhop for repayment in another life with an hundred-fold advantage; and next night after his death appeared to him, delivered in the bond cancelled, as fully diſcharged: So ſurely, bre<g ref="char:EOLhyphen"/>thren, one day in the preſence of God will make a<g ref="char:EOLhyphen"/>mends abundantly, abundantly for all the loſſes that come by death to ſoule or body. For this we have not an uncertaine ſtory, but the truth of Chriſt, <hi>mortality ſhall be ſwallowed up of life:</hi> that is, deſtroyed, brought to nothing; ſo ſwallowed up, as there will be no more re<g ref="char:EOLhyphen"/>membrance or thought of it; he that drinkes of this new wine in Gods Kingdome, will forget his loſſe of bodily comforts, and remember his ſorrow no more.</p>
+            <p n="3">3 Its a change of ſtate alſo. This life is a ſtate of im<g ref="char:EOLhyphen"/>perfection: now we ſee as in a glaſſe darkely, love cold<g ref="char:EOLhyphen"/>ly, hope faintly: but then this imperfection ſhall be ex<g ref="char:EOLhyphen"/>changed for perfection, cleare viſion, full comprehenſi<g ref="char:EOLhyphen"/>on, everlaſting fruition.</p>
+            <p n="4">4 Of campany. <hi>Paul</hi> here lived among falſe bre<g ref="char:EOLhyphen"/>thren, that ſought to betray him, beaſts at <hi>Epheſus</hi> that ſought to devour him; death takes <hi>Paul</hi> from all theſe, and puts him out of their reach into the armes of Chriſt.</p>
+            <p>But what may we think of the violent death of Saints
+<pb n="12" facs="tcp:154827:10"/>
+by the ſword of the perſecutour? ſuch was <hi>Pauls</hi> condi<g ref="char:EOLhyphen"/>tion at this time in chaines, in the mouth of the Lyon, that he ſeemes to poynt at ſuch a death as this. Certain<g ref="char:EOLhyphen"/>ly its true of ſuch a death much more: the Millinaries have a conceit of a previous glory, a glory before glory, that martyrs ſhal injoy with Chriſt here on earth; grou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ded on that <hi>Rev.</hi> 20.<note place="margin">Rev. 20.4, 5.</note>4.5. to which I only ſay, a day will declare it. The Schoolemen talke of an <hi>Aure<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la Mar<g ref="char:EOLhyphen"/>tyrum,</hi> a Coronet on the crowne of righteouſneſſe, that the righteous judge ſhall give to them that ſuffer death for his name.<note place="margin">Matth. 5.</note> Truth it ſelfe hath told us, that <hi>great ſhall be their reward that ſuffer for righteouſneſſe ſake;</hi> and I doubt not but the greater the ſuffering, the greater will be the glory.</p>
+            <p>
+               <note place="margin">Reaſon.</note>I need adde no more for confirmation of ſo plaine and confeſſed a truth. I ſhall touch only the ground which is the juſtice of God,<note place="margin">2 Theſſ. 1.6.</note> 
+               <hi>ſeeing this is a righteous thing with God,</hi> ſaith <hi>Paul,</hi> as the Saints endevours do gaine to God, ſo in juſtice he will ſee they be gainers by him a<g ref="char:EOLhyphen"/>gaine;<note place="margin">Matth. 25.20.</note> Not here: <hi>for if in this life only we had hope</hi> &amp;c. therfore it muſt needs be hereafter.<note place="margin">Non ſi male nunc, &amp; olim ſic erit.</note> Ill here and hereafter too with the Saints it cannot be; how then ſhall the judge of all the world do right? <hi>Verily there is a reward for the righteous;</hi> that's not here given; <hi>the day of this life</hi> is a time of <hi>working, ſweating, ſuffering;</hi> when the <hi>evening of death</hi> comes, then comes the <hi>peny of eternall bliſſe.</hi>
+            </p>
+            <p>Now for the application of all that hath been ſaid.</p>
+            <p n="1">1 Then by your life you may judge what gainers you are like to be by your death. If you can truly ſay, I have not lived to my luſts, they are death to me, the deadneſſe of my heart, the hell of my ſoule; Nor to the world, I take not thought for the things of it, I uſe it as if I uſed it not, rejoyce in it as if I rejoyced not, looke on all the things therein as impertinent to the main bu<g ref="char:EOLhyphen"/>ſineſſe
+<pb n="13" facs="tcp:154827:10"/>
+of my life, reſerve the intentions of my ſoule the cheife of my ſtrength for Chriſt:<note place="margin">Quia nomen Jeſu non erat. ibi.</note> as <hi>Auguſtine</hi> once ſaid he loved <hi>Tully</hi> nothing ſo well after his converſion, be<g ref="char:EOLhyphen"/>cauſe the name of Jeſus was not there; ſo you can reliſh nothing farther then it hath reference to Chriſt; if Chriſt be not injoyed in them, honoured and exalted by them, you looke on all as dead things. If you have writ<g ref="char:EOLhyphen"/>ten on all the roomes of your ſoules, as ſometimes we find on doores where the Court hath been; For the Prince. So on your hearts; For Chriſt. Your minds, to meditate on his word, your affections to love and de<g ref="char:EOLhyphen"/>light in his ſervice, hands to act, tongue to ſpeake to, and for him; O then happy are you! When death comes, it ſhall not ſpoyle you of your life, but you ſhal be able to ſay; <hi>as dying, but behold wee live.</hi>
+               <note place="margin">2 Cor. 6.9.</note> Though death be the loſſe of all other things to you, it cannot be the loſſe of life; you ſhall have more life in Chriſt, then in your ſelves, more of that by loſing this. <hi>Death is gaine to me:</hi> why? ſaith <hi>Chryſiſtome;</hi> becauſe I ſhall hereby have more knowledge of Chriſt my life; more familyar con<g ref="char:EOLhyphen"/>verſe, more intimate fellowſhip with him: this is all the hurt death ſhall do you, to ſend you ſooner to your life, and free you from this that is not ſo fit for you.</p>
+            <p>But if you have lived to your luſts, if your life be on<g ref="char:EOLhyphen"/>ly carnall, ſenſuall, you can reliſh your meat, ſleepe, and walke, and talke, thats all your life to eate, drink, ſnort, and ſport; Or only rationall, you can diſcourſe, tran<g ref="char:EOLhyphen"/>ſact buſineſſe, yet continue ſtrangers to the life and po<g ref="char:EOLhyphen"/>wer of godlineſſe; Or only worldly, you do all for the world, in reference to your gaine, honours; make Chriſt himſelfe come behind the ewes, Religion a very lackey to your coveteouſneſſe, ambition, &amp;c. if you be active only about ſenſe, and reaſon, and luſt, and gaine, the life of holineſſe not ſo much as ſought after, Chriſt and his
+<pb n="14" facs="tcp:154827:11"/>
+glory, Church, and truth not regarded, well may you be gainers by your life, through ſordid and wretched cour<g ref="char:EOLhyphen"/>ſes; but this I tell you; all that you are like to gaine by your death, you may put into your eye, and weep it out againe; yea death will bring with it the greateſt loſſe, I ſay not of heaven, that it may be you little regard, but of all that you now count gay, your gold, your god; death will take you by the ſleeve, as <hi>Gregory</hi> did once the Emperour <hi>Anaſtatius,</hi>
+               <note place="margin">Pſal. 49.17.</note> and tell you; Sir, this ſilken caſſack, this ſcarlet coat you ſhall not carry hence with you. One ſayd he was willing to dye, but he feared theeves, that had beleagured the paſſages in the ayre, as he was to paſſe to heaven. Doubtleſſe if Chriſt be not your life, if you have only lived the life of pride, co<g ref="char:EOLhyphen"/>vetiouſneſſe, wantonneſſe, &amp;c. death as the divils mer<g ref="char:EOLhyphen"/>cileſſe ſargeant catchpole will ſeize upon you, take you by the throat, and by a writ of <hi>firmâ ejectione</hi> turne you out of houſe and home, ſtrip you at once of all that you counted precious, and dragge your froward and unto<g ref="char:EOLhyphen"/>ward ſoules to the loweſt hell.</p>
+            <p n="2">2 Suffer, I beſeech you, a word of exhortation: would you, be gainers by death? let Chriſt be a gainer by your life: make this your maine deſigne, your only imployment, to ſet up Chriſt in your owne and the hearts of others, to advance his Goſpel, inlarge his King<g ref="char:EOLhyphen"/>dome. Let Miniſters be <hi>burning lights,</hi> ſpending them<g ref="char:EOLhyphen"/>ſelves in giving light to the church of Chriſt, <hi>not ſeeking their owne, but the things of Chriſt.</hi> Let Mageſtrates be as <hi>watchmen</hi> to keepe and defend <hi>the Spouſe of Chriſt,</hi>
+               <note place="margin">Cant. 3.3. Revel. 12.16.</note> as <hi>the earth helped the woman againſt the dragon,</hi> to cruſh all the ſeedes of rebellion and oppoſition, that ayme at the overthrow of the Goſpell of Chriſt,<note place="margin">2 Chron. 30:22. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chron. 34.33.</note> as <hi>Hezekiah ſpea<g ref="char:EOLhyphen"/>king comfortably to the Levites that teach the good know<g ref="char:EOLhyphen"/>ledge of God;</hi> as good <hi>Joſiah, making the people to ſerve
+<pb n="15" facs="tcp:154827:11"/>
+the Lord;</hi> compelling them to come in, that Gods houſe may be full. And you Captaines of the Lords hoſt, and all you that fight his battles, let this be the inſcription on your weapons of warre, as <hi>Alphonſus</hi> once had on his ſhield; <hi>pro lege, &amp; pro grege;</hi> ſo you, for Chriſt and his Kingdom, for his Church and his Goſpell. All you chriſtians,<note place="margin">Revel. 14.1.</note> let the name of <hi>Chriſt</hi> be written in your <hi>fore<g ref="char:EOLhyphen"/>heads,</hi> in all your hearts, as they ſay t'was in the heart of <hi>Ignatius</hi> in golden letters. let all your thoughts, affecti<g ref="char:EOLhyphen"/>ons, deſires and endeavours be truly chriſtian: labour in a heavenly ambytion the advancement of the honour of your Maſters Kingdome, be valiant in your places and ſtations for his truth and Goſpell. This is truly to live; to live only to and for Chriſt: this the only life, till we come to live with Chriſt in heaven for ever.</p>
+            <p>Here is al that can make a life comfortable, the world<g ref="char:EOLhyphen"/>lings Trinity is truly here, and here only to be found.</p>
+            <p n="1">1 This is the only honourable life called <hi>the divine nature, the image, life</hi> and <hi>glory of God,</hi> 2 <hi>Cor.</hi> 8.23.<note place="margin">2 Cor. 8.23.</note> they that live to the benefit of the Church, are the glory of Chriſt.</p>
+            <p n="2">2 True pleaſure is to be found only here. To live a life of carnall pleaſure, 1. Is to live a baſe life. Epi<g ref="char:EOLhyphen"/>cures are <hi>ſpots, vile perſons,</hi> in the Scriptures and natures account. 2. A vaine life, Ecle: 2.2. a challenge to all the moſt cunning inventours of pleaſure, to tell if they can what true good is in it. 3 A dead and deadly life: Senſuall pleaſure deads the heart to God the fountaine of life, and leads to the chambers of eternall death.<note place="margin">Hoſ. 4.11. Prov. 9.18.</note> But now to have Chriſt for the <hi>Alpha</hi> and <hi>Omega</hi> of our lives, while others are ſunke in the dregs of the world, to worke up to God, to moove to Chriſt as our only center, acting all we doe for the glory of his name; How ſweet a life muſt this needs be, carrying with it a
+<pb n="16" facs="tcp:154827:12"/>
+ſpirituall, heavenly, glorious joy, as farre above all car<g ref="char:EOLhyphen"/>nall delights, as glory is above ſhame, heaven above hell?<note place="margin">Archimedes. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> If Heathens found ſuch ſweeteneſſe ſome in phi<g ref="char:EOLhyphen"/>loſophicall ſpeculations, others in famous atcheive<g ref="char:EOLhyphen"/>ments for the good of their country, which were but the exerciſes of a rationall morall life; What ſweetneſſe then muſt that ſoule needs finde, that lives in Chriſt, acts for the honour of Chriſt, every ſuch action being an exerciſe of the life of God, and a ſeede of glory?</p>
+            <p n="3">3. The only gainefull life. <hi>Godlineſſe is profitable for all things:</hi>
+               <note place="margin">1 Tim. 4.8.</note> makes a gaine of all: trades with Gods ta<g ref="char:EOLhyphen"/>lents, and gets <hi>ten</hi> for <hi>one;</hi> a gaine of all eſtates, ſick<g ref="char:EOLhyphen"/>neſſe, loſſes, the greateſt gaine of the greateſt loſſe, TO DYE IS GAINE. Theſe are, my brethren, adventu<g ref="char:EOLhyphen"/>ring times, and men hazzard farre, perſons, ſtates, lives and all; and what to get? Some their <hi>Helena</hi> of luſt, O<g ref="char:EOLhyphen"/>thers their <hi>Dagon</hi> of ſuperſtition, they plead, fight for <hi>Baall;</hi> Others to get a name by doing exployts; Others drive a trade of theſe warres, building their houſes with blood: All would gladly attaine to the end, but the moſt of men weary themſelves in vaine, not knowing the way.<note place="margin">Eccleſ. 10.15.</note> Would you have higheſt honour, laſting plea<g ref="char:EOLhyphen"/>ſure, trueſt gaine? know all theſe intereſts of yours are wrapt up in Chriſt; if you make him a gainer you can<g ref="char:EOLhyphen"/>not looſe: you need goe no farther then the magnifying of Chriſt in your fleſh, for the ground of all your ho<g ref="char:EOLhyphen"/>nour, comfort, happineſſe here and hereafter.</p>
+            <p>
+               <note place="margin">Quest. Anſw.</note>But how may I be enabled thus to live?</p>
+            <p n="1">1 Learne that leſſon of ſelfe-denial well. Selfe and Chriſt cannot agree together<g ref="char:punc">▪</g> a mans owne things and the things of Chriſt are ever in competition; and S<hi rend="sup">t</hi>. <hi>Paul</hi> makes them incompatible in this reſpect, none can ſeeke both <hi>their owne things,</hi>
+               <note place="margin">Philip. 2.21.</note> and <hi>Chriſts</hi> together, not their owne caſe, not their owne praiſe, nor their
+<pb n="17" facs="tcp:154827:12"/>
+owne profits with the things that are Jeſus Chriſts: A man will never looke to Chriſt in any thing, vntill he have learned to looke beyond himſelfe in all.</p>
+            <p>Now becauſe this is a hard ſaying, Conſider,</p>
+            <p n="1">1 The end of our being is nor Selfe, but Chriſt: marke what a high end the Apoſtle ſets up 1 Cor: 10.31. <hi>Whether therefore ye eat, or drink, or whatſoever ye do, do all to the glory of God.</hi> which he inforceth by his owne practice in the laſt verſe <hi>Even as I ſeeke not my owne profit, but the profit of many, that they may be ſaved:</hi> where note againe the antitheſies: ſelfe honour, ſelfe profit, and the profit of the Church and glory of Chriſt, al<g ref="char:EOLhyphen"/>though they are compatible and may be conjoyned in the event, yet in the endevour they cannot; he that makes his owne advantage his maine end, can neither ſeek the profit of the Church, nor the glory of Chriſt.</p>
+            <p n="2">2 This is very profitable, 1. For ſecurity; 2. For im<g ref="char:EOLhyphen"/>provement, you have Chriſts owne words in plaine aſ<g ref="char:EOLhyphen"/>ſertions for both. 1. That this is the beſt way to ſecure whatſoever you are willing to deny your ſelves in for Chriſt, be it credite, eſtate, life, any thing, truth it ſelf aſſures you, <hi>Joh.</hi> 12.25. <hi>Mark.</hi> 8.35. if in compari<g ref="char:EOLhyphen"/>ſon or competition with Chriſt we can be willing not only to lay downe and loſe, but even hate the deareſt things of this world, when they ſtand in the way of the publique cauſe of Chriſt, and Religion; as now God calls us to lay downe our eſtates, lives, and all for his truth; it may be he will not take them from us, but ſave them for us, and continue them to us; but if he do; <hi>ve<g ref="char:EOLhyphen"/>leat vita, pereat pecunia,</hi> as once ſaid that virgin Martyr: let them take all the goods in our houſes, children of our fleſh, blood in our veynes, all: we are ſure to ſave all to life eternall: we ſhall have more life in Chriſt then in our ſelves, as hath been ſayd, more riches in him,
+<pb n="18" facs="tcp:154827:13"/>
+then in the world, even vnſearchable riches that can ne<g ref="char:EOLhyphen"/>ver be ſtollen away, never be exhauſted. 2. for improve<g ref="char:EOLhyphen"/>ment we have a promiſe for this alſo,<note place="margin">Matth. 19.29.</note> if we can beleeve it, <hi>Every one that hath forſaken houſes, or brethren, &amp;c.</hi> ne<g ref="char:EOLhyphen"/>ver any that tryed but he found God a good paymaſter: ſweet experience have many of Gods plundered ſuffer<g ref="char:EOLhyphen"/>ing Saints in theſe evill dayes of his giving in good mea<g ref="char:EOLhyphen"/>ſures of this precious truth into their boſomes, heaped up, and preſſed downe, and running over.</p>
+            <p n="3">3 This is moſt comfortable in life and death, when we can looke backe on our lives wholly layd out for Chriſt,<note place="margin">2 Cor. 1.12.</note> and ſay with S<hi rend="sup">t</hi>. <hi>Paul, This is our rejoycing, that in Simplicity and godly ſincerity, not in fleſhly wiſedome, we have had our converſation in the world:</hi> not in policy to bring about our owne ends, but as the ſincere ſervants of Chriſt for the good of his Church. and as this is the comfort of his life, ſo when a man ſhall come to lye on his death bed, he may comfortably pleade it with God and man; With man, as <hi>Frederick</hi> the godly, ſaid to his friends ſtanding about his ſicke bed; <hi>Hitherto I have lived for you, now let me live for my ſelfe;</hi> With God, as <hi>Nehemiah,</hi> that was full of ſelf-deniall, you ſee how he was inboldned to put his God in minde <hi>to thinke on him for good according to all that he had done for his people.</hi>
+               <note place="margin">Heb. 5.14, 19.</note> So S<hi rend="sup">t</hi>. <hi>Paul</hi> when the time came that he ſhould dye, you ſee he that had lived only to Chriſt, preached not him<g ref="char:EOLhyphen"/>ſelfe, but the Lord Jeſus, driven no ends of his owne, ſought not his owne advantage, but the profit of the Churches; as he was full of ſelf-deniall in life, ſo he en<g ref="char:EOLhyphen"/>ded his dayes full of comfort:<note place="margin">2 Tim. 4.7.</note> when he had done his worke, ſaith he, <hi>I have fought a good fight, I have finiſh<g ref="char:EOLhyphen"/>ed my courſe, I have kept the faith, henceforth is layd up for me the Crowne of righteouſneſſe.</hi> Contrarily ſelf-livers as they decline the true end of their being, making
+<pb n="19" facs="tcp:154827:13"/>
+themſelves their owne end, Selfiſh in all; So they croſſe their owne profit and comfort in life and death. Many thinke now in theſe perillous times to ſave their owne ſtake by ſparing from the cauſe of Chriſt; they will have ſomething to live on, which way ſoever the world goe: No, this is the way to loſe all: truth it ſelfe hath told us, whatſoever it be we are loath to loſe for Chriſt, be it ſtate, perſons, lives; at length we ſhall loſe that,<note place="margin">Matth 16.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. Luke 9.23.</note> and ſelves and ſoules too. No leſſe uncomfortable will the eſtate of ſelf-livers be at the laſt. True, many do very much <hi>bleſſe themſelves</hi> while they live in their heaped up and reſerved ſtores; and men may <hi>prayſe them while they do well unto themſelves:</hi> but marke the ſad cataſtrophe: <hi>He ſhall go to the generation of his fathers,</hi>
+               <note place="margin">Pſa. 49.18, 19.</note> 
+               <hi>they ſhall never ſee light,</hi> they are ſhut out from the leaſt glimps of com<g ref="char:EOLhyphen"/>fort after death: but what comfort have they in death? <hi>Man being in honour underſtandeth not:</hi> inebritated with preſent comforts, or diſtracted with worldly cares, they apprehend not the true ſcope of life, and end of their being, to direct their indeavours after that; but drowne themſelves in the cares and pleaſures of life, as if they had been borne only thereunto: thus they live, but how dye they? <hi>like the beaſt that periſh:</hi> as in other reſpects, ſo eſpecially in this, there is no regard had of the death of a bruit beaſt: doth God take care for oxen living or dying? no more care takes he for ſelfe-ſeeking men: <hi>that that dyes, let it dye,</hi> will God ſay,<note place="margin">Zach. 11.9. Rom. 14.7.</note> 
+               <hi>that that is to be cut off, let it be cut off;</hi> they lived to themſelves, and therfore let them dye to themſelves. Let all ſelf-ſeekers, <hi>Gallioes</hi> in the matters of Chriſt know, as little as they care for God and his cauſe in life, ſo little will he re<g ref="char:EOLhyphen"/>gard them in death; but will ſay unto them; goe un<g ref="char:EOLhyphen"/>to the gods whom you have ſerved; do you come to me, and commend your ſoules to me; go to your luſts:
+<pb n="20" facs="tcp:154827:14"/>
+theſe were your lords in life, to thoſe you offered your ſervice, gave up your hearts; ſee if they can now ſave you in the day of your trouble. Cold comfort to a droo<g ref="char:EOLhyphen"/>ping dying ſoule; yet this wil be the forlorn and caſt off condition in death of a ſelfe-ſeeking life: the greateſt ſelf-ſeekers wil prove the greateſt ſelf-loſers at the laſt.</p>
+            <p n="2">2 Get the life of Chriſt in you. If Chriſt be in you, you cannot but live to him.</p>
+            <p>
+               <note place="margin">Quest. Anſw.</note>But how may this be done?</p>
+            <p>I can hardly ſtay to tell you briefly; this is effected on Gods part, inwardly by his Spirit, outwardly by his Word: On our part only by beleeving: ſo farre as any man knows Chriſt and beleeves in him,<note place="margin">1 Joh. 5.11.12</note> ſo farre he lives in Chriſt. <hi>God gives us life in his Sonne,</hi> and faith takes it: there is no difference betwixt <hi>beleeving</hi> and <hi>having</hi> in the language of the holy Ghoſt. The ſtung Iſraelites looking on the brazen ſerpent, though but with a ſquint weake, yet a pitifull wiſhly eye were healed: he that but looks on Chriſt in the Goſpell earneſtly faſtning his minde on him, reaching out his ſoule after him, a broken ſelfe-denying heart, affectionately deſiring that Chriſt may come and live there, cannot go off empty, but while we are thus <hi>beholding Chriſt in the myrrour of the Goſpel we are changed into the ſame image from glory to glory as by the Spirit of the Lord.</hi>
+               <note place="margin">2 Cor. 3.18.</note> To clear this myſtery yet a little more; life is in the will and affections; to love is to live: now the Goſpell is the miniſtry of love, and therefore of life. Would you have life? goe not to mount <hi>Sinai,</hi>
+               <note place="margin">Galath. 4.24. Pſal. 133.3.</note> that <hi>gendreth to bondage,</hi> and works feare: but goe to mount <hi>Sion; there the Lord hath commanded a bleſsing of love and life for evermore.</hi>
+               <note place="margin">Hebr. 12.18, 19, 20.</note> That which keeps many in a ſtate of ſtrangeneſſe from the life of God, is, that they look on God as on a terrible Judge offended with them, his wrath kindled, ready to conſume them
+<pb n="21" facs="tcp:154827:14"/>
+in their tranſgreſſions, this amazeth, fils with confuſion, perplexity and feare; they looke upon the Law as im<g ref="char:EOLhyphen"/>poſſible to be kept, charging duty without giving any ſtrength to performe, written in letters of blood, threat<g ref="char:EOLhyphen"/>ning wrath, and curſe, and death to the diſobedient: this makes men ready to flye in the face of God, or to flye from him, willing to give all the world, if they had it, to be free of the terrours of the Lord, and challenge of con<g ref="char:EOLhyphen"/>ſcience upon ſo fearefull a ſentence as the law pronoun<g ref="char:EOLhyphen"/>ceth againſt them: they deſire to heare no more of God, to have no more to doe with him: ſeeing Juſtice only in God, and no mercy, impotency in their natures to fulfill the law, an vtter impoſſibility to helpe them<g ref="char:EOLhyphen"/>ſelves by any thing they can doe, or to doe any thing bet<g ref="char:EOLhyphen"/>ter then they have done; no drawing neare to God for them, think they. But when they come to mount Sion, ſee the goodneſſe, and mercy, and tender compaſſion of God toward them, ſee the covenant of grace and the blood of ſprinkling, that their ſinnes ſhall be forgiven, and nature cleanſed, and they inabled by the ſpirit for keeping the new covenant in ſuch a manner as God re<g ref="char:EOLhyphen"/>quires, and will accept; this melts the heart, renders it pliable to God, begets a diſpoſition of love to God, which the Scripture calls <hi>the new life.</hi>
+            </p>
+            <p n="3">3 Get your hearts filled with the graces of Chriſt. They are all ſprings, as it were, living principles, in a<g ref="char:EOLhyphen"/>bling and inclining to live to God.<note place="margin">1 Cor. 13.</note> Eſpecially labour to get your ſoules <hi>filled with the love of Chriſt:</hi> love is boun<g ref="char:EOLhyphen"/>tifull: 'twill make a man thinke nothing too much to be done for Chriſt, no zealous and godly walking, no reading, hearing, humbling, confeſſing, no duties too much whereby Chriſt may be exalted, and it ſelfe ex<g ref="char:EOLhyphen"/>preſſed; yea love will make a man not thinke his life too deare for Chriſt, and his Goſpell: <hi>I count not my life
+<pb n="22" facs="tcp:154827:15"/>
+deare unto my ſelfe that I might finiſh my courſe &amp;c.</hi>
+               <note place="margin">Act. 20.18.</note> ſo he: ſo in effect this noble Colonell whoſe funeralls we now ſolemnize; he was of Saint <hi>Pauls</hi> ſpirit; he thought no<g ref="char:EOLhyphen"/>thing too much, too deare to be layd out for Chriſt, his Church and you. He might truly ſay with our Apoſtle; <hi>I am willing to ſpend and to be ſpent for you.</hi> and I think go on: <hi>although the more I love, the leſſe I am beloved of you.</hi> I intend not any portraiture of him: if I did, or he needed my atteſtation; I could tell you of his ſweete temper, mildneſſe to admiration, yet reſolutions gallant and vi<g ref="char:EOLhyphen"/>gorous in all publique expeditions, not fearing to take the lyon by the beard, nor turning his back to the ſword. I could tell you of his gentleneſſe to all, indulgence to the Goſpell &amp; beſt Miniſters, meekneſſe in packing up injuryes to himſelfe, digeſting without the leaſt pertur<g ref="char:EOLhyphen"/>bation harſheſt carriages, as if with S<hi rend="sup">t</hi>. <hi>Paul</hi> he tooke pleaſure in reproches, perſecutions for Chriſt and his cauſe: yet was he impartially active in puniſhing ma<g ref="char:EOLhyphen"/>lignants againſt the cauſe of Chriſt, therein another <hi>Mo<g ref="char:EOLhyphen"/>ſes:</hi> indeede he was of a very ſweete humble ſelf-deny<g ref="char:EOLhyphen"/>ing frame. Concerning his laſt ſervice in theſe parts, it being his owne choyce, and deſire to do worthily in E<g ref="char:EOLhyphen"/>phratah, be ſerviceable in his owne countrey; I muſt profeſſe as S<hi rend="sup">t</hi>. <hi>Paul</hi> once of his <hi>Timothy, I know no man like minded, that naturally cared for your matters.</hi> I con<g ref="char:EOLhyphen"/>demne not al that went before him, I know ſome meant well, but were vnequally yoaked, ouermatched. As for others, I neede not tell you what burning firebrands they have proved to the Weſt, <hi>publico malo nati,</hi> as if they had been borne for publique miſchiefe; who forſooke their faith, betrayed the country wherewith they were intruſted, and with it as much as in them lay, the religi<g ref="char:EOLhyphen"/>on, lawes and libertyes of the whole Kingdome. But for this Noble Colonell you know the proofe of him, and
+<pb n="23" facs="tcp:154827:15"/>
+I dare make my appeal to you as S. Paul once did to the elders of the Church, from the firſt hour that he came in<g ref="char:EOLhyphen"/>to this towne you know, his behaviour among you at al ſeaſons, how watchfull, induſtrious was he night and day for your ſafety? what arts did he vſe? at what expence was he to keepe the hearts of the ſouldiers to him, eſpecially of ſuch as were in places of chief truſt &amp; greateſt danger? I thinke there are none that are able to judge, but will give him the teſtimony of a faithfull prudent comman<g ref="char:EOLhyphen"/>der; as for thoſe that miſrepreſented his beſt actions, invy<g ref="char:EOLhyphen"/>ing him while alive, and reproching him now he is dead; I dare appeale as <hi>Iohn Huſſe</hi> once did, from Pope <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> to Pope <hi>Alexander;</hi> ſo I, from themſelves to them<g ref="char:EOLhyphen"/>ſelves, from their tongues to their hearts. Ile but name our dutyes towards him, and I have done.</p>
+            <p n="1">1 Shall I ſay, let us lament him, or bleſſe God for him? Surely both become us. 1. Lament him. Our loſſe is great. The, Church, State, town, country wil find a miſſe in him. 1. He was a bravo Commander, reſolute &amp; active, of ſolide judgement, of publique vſe and ſpirit, and ſhall we ſend him to the grave without an <hi>Ah. his glory!</hi> and not weepe over his beir as <hi>David</hi> over <hi>Abners; know ye not that a great man is fallen this day in Iſrael?</hi> 2 The Church will have a great want of him, he was a hearty &amp; true promoter of the cauſe of Chriſt, he caſt in all he had into the Churches treaſury, his parts, eſtate, ſtrength, perſon, life: never a good Miniſter in the towne, but had incouragement from him: indeede he was a man of ſpe<g ref="char:EOLhyphen"/>ciall vſe and ſervice for Church and commonwealth: ſo that we have cauſe to lament him, if we knew our loſſe. And I think there is no good man, that knew the eſtate of the towne when he dyed, but tooke up ſome ſuch la<g ref="char:EOLhyphen"/>mentation as <hi>Micah</hi> did: <hi>woe is me, the good man is peri<g ref="char:EOLhyphen"/>ſhed out of the earth!</hi> bleſſed be God that hath ſince ſup<g ref="char:EOLhyphen"/>plyed
+<pb n="22" facs="tcp:154827:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:154827:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:154827:17"/>
+that loſſe; and I pray God from my heart, that this towne may ſtill be ſo furniſhed, that you may have no want of valiant Colonel <hi>Gould.</hi> 2. Or rather (for why ſhould we reckon our friends gaines, our loſſes, he dyed, I doubt not, in good time for himſelfe, but to us, to the towne, country, kingdom too ſoone) let us give God the glory, and him his due double honour, ſpreading his name which is the laſt, the all we can doe for him, with ſome ſuch atteſtation as <hi>Deborah</hi> gave her voluntier gover<g ref="char:EOLhyphen"/>nours:<note place="margin">Judg. 5.</note> bleſſe ye the Lord that raiſed up the perſon and ſpirit of Colonell <hi>Gould</hi> to ſtand for the publique cauſe of religion, lawes, liberties, &amp; to ſpend his time, ſtrength, eſtate, parts, and to jeopard his life for the ſame: bleſſed be God that raiſed up his ſpirit to ſuch a pitch of magna<g ref="char:EOLhyphen"/>nimity and reſolution in ſuch a time as that was: and let his memory be bleſſed though envy bark, and his name be precious with the Lord, and with the generation to come.</p>
+            <p n="2">2 All that I have to ſay to you, Noble and reſolute commanders, &amp; wiſh for you, is, that you would expreſſe him. Be humble, be ſerviceable, be active for Chriſt. You cannot do or ſuffer too much in his cauſe. Be conſtant &amp; faithfull in your intruſtments, reſolute to live and dye with the Church of Chriſt and for it in one word, live, live, live much, ſpend your thoughts on Chriſt, which way you may ſet up his Name, what may be for his honour, advancement of his cauſe, and not what is for your own advantage. Lay out your time, ſtrength, parts, your all for Chriſt. Feare not loſſe here: you cannot drive a more gainefull trade: in life you ſhall be honour<g ref="char:EOLhyphen"/>ed, deſired, in death honoured, lamented; after death crowned with a crowne of glory that fadeth not away.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
